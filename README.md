@@ -1,4 +1,4 @@
-# Hi, I'm YOUR NAME
+# Hi, I'm Mykola Rybiak
 
 Software Engineering student focused on Java backend development with the Spring ecosystem.
 
@@ -8,10 +8,9 @@ I build REST APIs with Spring Boot, Spring MVC, Spring Data JPA, and Hibernate, 
 
 ## Tech Stack
 
-### Languages
+### MAIN LANGUAGE
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Spring Ecosystem
 
@@ -88,5 +87,5 @@ I build REST APIs with Spring Boot, Spring MVC, Spring Data JPA, and Hibernate, 
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_NAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-rybiak-72126b3b6/)
-[![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribakmikola36@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MYKOLA_RYBIAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-rybiak-72126b3b6/)
+[![Email](https://img.shields.io/badge/ribakmikola36@gmail.com%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribakmikola36@gmail.com)
