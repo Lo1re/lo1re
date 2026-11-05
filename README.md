@@ -88,4 +88,4 @@ I build REST APIs with Spring Boot, Spring MVC, Spring Data JPA, and Hibernate, 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MYKOLA_RYBIAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-rybiak-72126b3b6/)
-[![Email](https://img.shields.io/badge/ribakmikola36@gmail.com%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribakmikola36@gmail.com)
+
